@@ -1,5 +1,5 @@
 # my-menu-plus
-MyMenu+ Chrome and Firefox extension.
+MyMenu+ Chrome and Firefox extension.  
 Easily manage and access your favorite URLs from the right-click menu.
 
 ---
