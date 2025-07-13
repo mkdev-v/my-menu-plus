@@ -16,5 +16,5 @@ MIT License
 
 ## 🌐 Others
 
-- Firefox Web Store: https://addons.mozilla.org/ja/firefox/addon/mymenu/
+- Firefox Web Store: https://addons.mozilla.org/ja/firefox/addon/mymenuplus/
 - Chrome Web Store: https://chromewebstore.google.com/detail/mymenu+/pboachocjagcpkcjapgdpjbkfogebied
