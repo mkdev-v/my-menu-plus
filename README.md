@@ -2,8 +2,6 @@
 MyMenu+ Chrome and Firefox extension.  
 Easily manage and access your favorite URLs from the right-click menu.
 
----
-
 ## 🚀 Features
 
 - Add custom URLs to your context menu
@@ -12,13 +10,9 @@ Easily manage and access your favorite URLs from the right-click menu.
 - Stored URLs persist using `browser.storage.local`
 - Menu updates immediately upon changes
 
----
-
 ## 📄 License
 
 MIT License
-
----
 
 ## 🌐 Others
 
